@@ -1,6 +1,10 @@
 Product A: $100
+clearance
+Product B: $100
+Product C: $250
 vip-pricing
 Product B: $170
 Product B: $150
 master
 Product C: $300
+master
